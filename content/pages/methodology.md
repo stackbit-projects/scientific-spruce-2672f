@@ -59,11 +59,26 @@ We assign students homework that includes both computational practice exercises 
 Beyond the standard school topics that we cover in-depth here is a sample of some others topics that students are likely to encounter:
 
 \<div class="responsive-table">
-\<table>
-\<thead>\<tr>\<th>Grade\</th>\<th>Topics\</th>\</tr>\</thead>\<tbody>\<tr>\<td>3-5\</td>\<td>logic puzzles, original word problems (involving constructions, weighings, lateral thinking, and spatial reasoning), basic counting principles (combinations and permutations), number bases, mathematical games\</td>\</tr>\<tr>\<td>6-8\</td>\<td>logic puzzles (involving disjunctions, conjunctions, and negations), word problems (involving unusual applications of ratios and rates), coloring and parity problems, divisibility and arithmetic with remainders, infinitude of primes, basic graph theory, invariants, pigeon hole principle, basic combinatorics\</td>\</tr>\<tr>\<td>9-12\</td>\<td>logic puzzles (more involved than in earlier grades), basic number theory (modular arithmetic, Fermat\&#8217;s little theorem, applications to cryptography), proof by induction, proof by contradiction, inequalities (triangle, A.M.-G.M.), Pascal\&#8217;s triangle, extreme principle, semi-invariants, straight edge and compass constructions, geometry from a dynamical view point, geometric inequalities\</td>\</tr>
-\</table>
+  \<table>
+    \<caption>Table with thead, tfoot, and tbody\</caption>
+    \<thead>
+      \<tr>
+        \<th>Header content 1\</th>
+        \<th>Header content 2\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>Body content 1\</td>
+        \<td>Body content 2\</td>
+      \</tr>
+    \</tbody>
+    \<tfoot>
+      \<tr>
+        \<td>Footer content 1\</td>
+        \<td>Footer content 2\</td>
+      \</tr>
+    \</tfoot>
+  \</table>
 \</div>
 
-<div class="note"><strong>Note:</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.</div>
-
-<div class="important"><strong>Important:</strong> In this article, try entering the example code lines into your JavaScript console to see what happens. For more details on JavaScript consoles, see Discover browser developer tools.</div>
