@@ -23,7 +23,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: two
+    col_number: three
     type: section_docs
   - section_id: cta
     type: section_cta
