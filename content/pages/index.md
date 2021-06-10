@@ -17,7 +17,7 @@ sections:
       class educators, mathematicians, and a proven methodology to teach both
       students and teachers in the best problem solving tradition.
     actions:
-      - label: View Demo
+      - label: Learn More
         url: /docs/getting-started
         style: primary
   - title: lorem-ipsum
