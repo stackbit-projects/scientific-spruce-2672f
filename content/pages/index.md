@@ -31,7 +31,7 @@ sections:
           class. Our small class size ensures that students can effectively
           engage with each other and the instructor.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon_class: dev
