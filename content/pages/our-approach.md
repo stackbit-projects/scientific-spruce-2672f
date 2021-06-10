@@ -1,6 +1,5 @@
 ---
 title: Our Approach
-subtitle: The style guide provides you with a blueprint of default post and page styles.
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
