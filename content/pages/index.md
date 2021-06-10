@@ -22,7 +22,6 @@ sections:
         style: primary
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     grid_items:
       - title: Online Classes
