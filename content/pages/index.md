@@ -21,7 +21,6 @@ sections:
         url: /our-approach
         style: primary
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     type: section_docs
   - section_id: cta
