@@ -17,7 +17,7 @@ sections:
       students and teachers in the best problem solving tradition.
     actions:
       - label: Learn More
-        url: /docs
+        url: /our-approach
         style: primary
   - section_id: features
     type: section_grid
