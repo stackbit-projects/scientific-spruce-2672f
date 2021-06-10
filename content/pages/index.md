@@ -5,7 +5,9 @@ sections:
     type: section_content
     image: /images/Light bulb-pana.svg
     image_position: right
-    title: A Section With An Image
+    title: >-
+      An Ambitious K-12 Math and Computer Science Program that Aligns Education
+      Goals with Real-world Expectations
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
