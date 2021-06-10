@@ -54,6 +54,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: /images/Teaching-pana(1).svg
       - title: Outreach
         title_url: /partnering
         image_alt: lorem-ipsum
