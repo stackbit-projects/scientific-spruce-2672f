@@ -58,7 +58,7 @@ sections:
         image: /images/Teaching-pana(1).svg
       - title: Outreach
         title_url: /partnering
-        image_alt: lorem-ipsum
+        image_alt: Outreach
         content: >
           We partner with schools and organizations to conduct professional
           development workshops, consult on education issues, and bring STEM
