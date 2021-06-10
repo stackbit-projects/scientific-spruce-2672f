@@ -1,8 +1,9 @@
 ---
 title: Online Classes
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+excerpt: |-
+  If you don't live near us, you can join one of our real-time online 
+  class. Our small class size ensures that students can effectively engage
+   with each other and the instructor.
 seo:
   title: About
   description: This is the about page
