@@ -51,98 +51,36 @@ Our experience shows that an informal and friendly classroom setting helps reduc
 
 We assign students homework that includes both computational practice exercises as well as more challenging problems usually based on the main topic of a class. Although we do not give out grades, we expect that students will complete at least the practice exercises and will make a serious effort to solve as many of the remaining problems as possible. Even partial solutions or rough ideas are an important part of the learning process. Our goal is to gently nudge students to the limits of their abilities, and we would rather challenge them than give them a false sense of accomplishment. As a result, we do not expect all of our problems to be solved, and we know that the new ideas and problem solutions that students generate will be their most powerful source of encouragement.
 
-### This is an H3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-## Quoting
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
-
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-*   Vivamus convallis urna id felis
-*   Nulla porta tempus sapien
-
-## Ordered Lists
-
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
-
-## Video Embeds
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Code Blocks
-
-Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color:red;
-    }
-
-<!---->
-
-    window.$docsify = {
-      coverpage: true,
-
-      // Custom file name
-      coverpage: 'cover.md',
-
-      // mutiple covers
-      coverpage: ['/', '/zh-cn/'],
-
-      // mutiple covers and custom file name
-      coverpage: {
-        '/': 'cover.md',
-        '/zh-cn/': 'cover.md'
-      }
-    };
+```
+```
 
 ## Math Topics
 
 Beyond the standard school topics that we cover in-depth here is a sample of some others topics that students are likely to encounter:
 
-<div class="responsive-table">
-  <table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Grade</th>
-        <th>Topics</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+\<div class="responsive-table">
+  \<table>
+    \<caption>Table with thead, tfoot, and tbody\</caption>
+    \<thead>
+      \<tr>
+        \<th>Grade\</th>
+        \<th>Topics\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>3-5\</td>
+        \<td>logic puzzles, original word problems (involving constructions, weighings, lateral thinking, and spatial reasoning), basic counting principles (combinations and permutations), number bases, mathematical games\</td>
+      \</tr>
+    \</tbody>
+    \<tfoot>
+      \<tr>
+        \<td>Footer content 1\</td>
+        \<td>Footer content 2\</td>
+      \</tr>
+    \</tfoot>
+  \</table>
+\</div>
 
 <div class="note"><strong>Note:</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.</div>
 
