@@ -66,7 +66,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Online Classes",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
