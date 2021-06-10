@@ -55,7 +55,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Learn More
-            url: '#'
+            url: /localclasses
             style: link
             icon_class: dev
             new_window: false
