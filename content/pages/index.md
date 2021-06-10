@@ -20,8 +20,7 @@ sections:
       - label: Learn More
         url: /our-approach
         style: primary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     col_number: three
     grid_items:
       - title: Online Classes
