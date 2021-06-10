@@ -28,17 +28,10 @@ sections:
       - title: Online Classes
         title_url: /onlineclasses
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          If you don't live near us, you can join one of our real-time online
+          class. Our small class size ensures that students can effectively
+          engage with each other and the instructor.
         actions:
           - label: lorem-ipsum
             url: '#'
