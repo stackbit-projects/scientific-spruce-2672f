@@ -6,7 +6,7 @@ sections:
     title: >-
       An Ambitious K-12 Math and Computer Science Program that Aligns Education
       Goals with Real-world Expectations
-    image: /images/10.jpg
+    image: /images/4.jpg
     content: >
       In an age when foreign-educated students outcompete American students who
       have grown up filling in bubbles on multiple choice tests, the stakes have
