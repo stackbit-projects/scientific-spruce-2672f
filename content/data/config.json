@@ -9,24 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Classes",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Online Classes",
-                        "url": "/onlineclasses",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Local Classes",
-                        "url": "/localclasses",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "label": "About",
                 "url": "#",
                 "style": "link",
