@@ -41,7 +41,7 @@ sections:
         type: grid_item
       - title: Local Classes
         title_url: /localclasses
-        image_alt: lorem-ipsum
+        image_alt: Local Classes
         content: >
           We offer private, semi-private, and small group classes at a location
           and time that is convenient for you.
