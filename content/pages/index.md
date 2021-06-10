@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: text-img
     type: section_content
-    image: /images/Designer girl-bro.svg
+    image: /images/Creative thinking-pana.svg
     image_position: right
     title: >-
       An Ambitious K-12 Math and Computer Science Program that Aligns Education
