@@ -15,7 +15,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "Local classes",
                         "url": "/overview",
                         "style": "link"
                     },
