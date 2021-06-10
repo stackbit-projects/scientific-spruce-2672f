@@ -15,7 +15,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Omline Classes",
+                        "label": "Online Classes",
                         "url": "/overview",
                         "style": "link"
                     },
