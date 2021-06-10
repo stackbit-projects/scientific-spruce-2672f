@@ -55,4 +55,25 @@ We assign students homework that includes both computational practice exercises 
 
 Beyond the standard school topics that we cover in-depth here is a sample of some others topics that students are likely to encounter:Tables
 
-## Tables\<div class="responsive-table">&#xA;  \<table>&#xA;    \<caption>Table with thead, tfoot, and tbody\</caption>&#xA;    \<thead>&#xA;      \<tr>&#xA;        \<th>Header content 1\</th>&#xA;        \<th>Header content 2\</th>&#xA;      \</tr>&#xA;    \</thead>&#xA;    \<tbody>&#xA;      \<tr>&#xA;        \<td>Body content 1\</td>&#xA;        \<td>Body content 2\</td>&#xA;      \</tr>&#xA;    \</tbody>&#xA;    \<tfoot>&#xA;      \<tr>&#xA;        \<td>Footer content 1\</td>&#xA;        \<td>Footer content 2\</td>&#xA;      \</tr>&#xA;    \</tfoot>&#xA;  \</table>&#xA;\</div>\<div class="note">\<strong>Note:\</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.\</div>\<div class="important">\<strong>Important:\</strong> In this article, try entering the example code lines into your JavaScript console to see what happens. For more details on JavaScript consoles, see Discover browser developer tools.\</div>
+\<div class="responsive-table">
+  \<table>
+
+    \<thead>
+      \<tr>
+        \<th>Header content 1\</th>
+        \<th>Header content 2\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>Body content 1\</td>
+        \<td>Body content 2\</td>
+      \</tr>
+    \</tbody>
+    \<tfoot>
+      \<tr>
+        \<td>Footer content 1\</td>
+        \<td>Footer content 2\</td>
+      \</tr>
+    \</tfoot>
+  \</table>
