@@ -16,7 +16,7 @@ sections:
       class educators, mathematicians, and a proven methodology to teach both
       students and teachers in the best problem solving tradition.
     actions:
-      - label: Get Started
+      - label: Learn More
         url: /docs
         style: primary
   - section_id: features
