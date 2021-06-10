@@ -45,7 +45,9 @@ As part of our commitment to teaching problem solving, we teach other vital 21st
 
 ## Our History
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Gentle Knowledge has its roots in an old Eastern European problem-solving tradition that values creativity and critical and lateral thinking above mindless pattern memorization. It is in part a descendant of the Gelfand Correspondence Program in Mathematics which at its height in the 1970s reached over 40,000 students all over the former USSR and, among other achievements, helped improve the quality of mathematics education in the most remote regions and in the weakest schools in the country.
+
+Our mission remains to gently elevate the level of mathematical competence of students and teachers without undermining the role of schools. Among the changes we have made is adopting our methodology to the specific needs of an American audience and embracing the role of technology without violating our core principles (outlined below).
 
 #### This is an H4
 
