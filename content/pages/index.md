@@ -4,7 +4,7 @@ sections:
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
-    image_position: left
+    image_position: right
     title: A Section With An Image
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
