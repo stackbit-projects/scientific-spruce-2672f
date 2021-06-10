@@ -55,7 +55,7 @@ sections:
             type: action
         type: grid_item
       - title: Outreach
-        title_url: lorem-ipsum
+        title_url: /partnering
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
