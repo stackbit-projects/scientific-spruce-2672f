@@ -67,7 +67,7 @@
                 "subnav_links": [
                     {
                         "label": "Online Classes",
-                        "url": "#",
+                        "url": "/onlineclasses",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
