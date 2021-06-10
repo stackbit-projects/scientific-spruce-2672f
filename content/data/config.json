@@ -9,12 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Docs",
                 "url": "/docs",
                 "style": "link",
