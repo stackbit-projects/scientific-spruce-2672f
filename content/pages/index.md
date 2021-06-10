@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/Light bulb-pana.svg
     image_position: right
     title: A Section With An Image
     content: >-
