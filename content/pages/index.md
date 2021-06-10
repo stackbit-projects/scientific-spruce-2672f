@@ -20,6 +20,11 @@ sections:
       - label: Learn More
         url: /our-approach
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
