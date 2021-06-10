@@ -25,7 +25,7 @@ sections:
     grid_items:
       - title: Online Classes
         title_url: /onlineclasses
-        image_alt: lorem-ipsum
+        image_alt: Online Classes
         content: >
           If you don't live near us, you can join one of our real-time online
           class. Our small class size ensures that students can effectively
