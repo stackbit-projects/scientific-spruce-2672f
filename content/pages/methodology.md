@@ -116,15 +116,17 @@ Blocks of code are either fenced by `lines with three back-ticks`, or are indent
       }
     };
 
-## Tables
+## Math Topics
+
+Beyond the standard school topics that we cover in-depth here is a sample of some others topics that students are likely to encounter:
 
 <div class="responsive-table">
   <table>
     <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
-        <th>Header content 1</th>
-        <th>Header content 2</th>
+        <th>Grade</th>
+        <th>Topics</th>
       </tr>
     </thead>
     <tbody>
