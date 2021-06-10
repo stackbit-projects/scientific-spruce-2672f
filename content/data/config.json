@@ -45,7 +45,7 @@
                 "has_subnav": false,
                 "subnav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Partnering",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
