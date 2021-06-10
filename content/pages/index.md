@@ -1,24 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    title: >-
-      An Ambitious K-12 Math and Computer Science Program that Aligns Education
-      Goals with Real-world Expectations
-    image: /images/10.jpg
-    content: >
-      In an age when foreign-educated students outcompete American students who
-      have grown up filling in bubbles on multiple choice tests, the stakes have
-      never been higher. We believe that high standardized test scores are best
-      achieved through quality education that sets high goals, not through test
-      preparation that meets low standards. To this end, we bring together world
-      class educators, mathematicians, and a proven methodology to teach both
-      students and teachers in the best problem solving tradition.
-    actions:
-      - label: Learn More
-        url: /our-approach
-        style: primary
   - section_id: features
     type: section_grid
     col_number: three
