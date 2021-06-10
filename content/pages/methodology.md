@@ -39,6 +39,16 @@ Our most important guiding principle is that, on the one hand, no student is inh
 
 Our experience shows that an informal and friendly classroom setting helps reduce fear of mathematics while encouraging collaboration among students to solve the most difficult problems. Below is the structure of a typical class:
 
+1.  A warm-up session where students solve logic puzzles and other problems that do not require any mathematics beyond what students already know.
+
+2.  Short session devoted to practicing basic computational skills. Students work by themselves and receive help from the teacher. During this time students can individually discuss the computational part of their homework. Advanced students who finish their work early receive more difficult problems.
+
+3.  A 10 minute break.
+
+4.  A reinforcement session where students discuss challenging homework problems and solve problems using ideas and techniques that they have already developed in previous classes and homework assignments.
+
+5.  A session devoted to the main topic of the day which can include both an in-depth discussion of standard school topics beyond what schools and textbooks cover as well as nonstandard topics and problems.
+
 ### This is an H3
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
