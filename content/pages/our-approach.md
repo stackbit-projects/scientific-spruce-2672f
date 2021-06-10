@@ -35,9 +35,15 @@ image: /images/Mathematics-pana.svg
 ---
 ## What We Do
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Gentle Knowledge is a unique collaboration between mathematicians and educators, with experience both in the US and abroad, who have identified the main reasons behind the widening gap between what schools teach and what global competition demands.
 
-### This is an H3
+Unlike other programs that focus exclusively on computational fluency (basic arithmetic and algebra skills) and test-preparation to the detriment of a real problem solving education, we teach students to solve the kinds of problems that best prepare them for the real world outside of standardized tests. Success on standard metrics like the SAT and regular school work is a natural byproduct of this approach because students who learn to tackle nonstandard problems, become logical thinkers, and lose their fear of the unexpected can easily handle simple exercises that constitute the latest trend in test-based assessment.
+
+Instead of preparing students only for short term results and nearsighted goals, we look ahead at what they need to know to succeed in science, technology, engineering, and mathematics (STEM) professions and incorporate the necessary prerequisites into our methodology. The single most important such prerequisite is the ability to think abstractly, to generalize problem solving methods in novel situations.
+
+As part of our commitment to teaching problem solving, we teach other vital 21st century skills like computer programming. Our goal is to leave our students with a toolset that they can use throughout their education and later in their careers regardless of whether or not they ultimately pursue STEM professions.
+
+## Our History
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
