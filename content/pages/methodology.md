@@ -49,6 +49,8 @@ Our experience shows that an informal and friendly classroom setting helps reduc
 
 5.  A session devoted to the main topic of the day which can include both an in-depth discussion of standard school topics beyond what schools and textbooks cover as well as nonstandard topics and problems.
 
+We assign students homework that includes both computational practice exercises as well as more challenging problems usually based on the main topic of a class. Although we do not give out grades, we expect that students will complete at least the practice exercises and will make a serious effort to solve as many of the remaining problems as possible. Even partial solutions or rough ideas are an important part of the learning process. Our goal is to gently nudge students to the limits of their abilities, and we would rather challenge them than give them a false sense of accomplishment. As a result, we do not expect all of our problems to be solved, and we know that the new ideas and problem solutions that students generate will be their most powerful source of encouragement.
+
 ### This is an H3
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
