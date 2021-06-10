@@ -75,7 +75,7 @@
                         "type": "action"
                     },
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Local Classes",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
