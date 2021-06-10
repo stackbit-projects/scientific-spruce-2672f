@@ -6,7 +6,7 @@
         "title": "Gentle Knowledge",
         "logo_img": "/images/gk_logo.png",
         "logo_img_alt": "Libris logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "About",
