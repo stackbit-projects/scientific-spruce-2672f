@@ -42,17 +42,9 @@ sections:
       - title: Local Classes
         title_url: /localclasses
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We offer private, semi-private, and small group classes at a location
+          and time that is convenient for you.
         actions:
           - label: Learn More
             url: /localclasses
