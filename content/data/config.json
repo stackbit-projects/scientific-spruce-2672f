@@ -55,7 +55,7 @@
                     },
                     {
                         "label": "Frequently Asked Questions",
-                        "url": "#",
+                        "url": "/faq",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
