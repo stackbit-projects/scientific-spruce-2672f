@@ -18,7 +18,7 @@ sections:
       students and teachers in the best problem solving tradition.
     actions:
       - label: Learn More
-        url: /docs/getting-started
+        url: /our-approach/
         style: primary
   - title: lorem-ipsum
     section_id: lorem-ipsum
