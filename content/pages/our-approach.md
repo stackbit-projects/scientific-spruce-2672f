@@ -54,4 +54,5 @@ Our mission remains to gently elevate the level of mathematical competence of st
 *   Changing the “either you get it or you don’t” culture and breaking down the negative stereotypes surrounding school mathematics to reduce fear among students who perceive themselves as weak and to challenge those who want to progress beyond the regular school curriculum.
 *   Achieving computational fluency as soon as possible and practicing it alongside more advanced and exciting topics.
 *   Leading students to discover mathematical ideas and problem solving techniques on their own through an inquiry-based or Socratic approach.
-*
+Enriching the standard school mathematics topics and making sure that students understand the origins of concepts as well as their connections to each other, especially when textbooks and schools fail to emphasize this.
+
