@@ -40,7 +40,7 @@ sections:
             type: action
         type: grid_item
       - title: Local Classes
-        title_url: lorem-ipsum
+        title_url: /localclasses
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
