@@ -39,6 +39,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: /images/Online learning-pana.svg
       - title: Local Classes
         title_url: /localclasses
         image_alt: Local Classes
