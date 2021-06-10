@@ -46,7 +46,7 @@
                     },
                     {
                         "label": "Methodology and Curriculum",
-                        "url": "#",
+                        "url": "/methodology",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
