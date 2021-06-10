@@ -26,7 +26,7 @@ sections:
     col_number: three
     grid_items:
       - title: Online Classes
-        title_url: lorem-ipsum
+        title_url: /onlineclasses
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
