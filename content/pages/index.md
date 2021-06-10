@@ -61,7 +61,14 @@ sections:
           We partner with schools and organizations to conduct professional
           development workshops, consult on education issues, and bring STEM
           activities to a wide range of students.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/Team-bro.svg
     type: section_grid
