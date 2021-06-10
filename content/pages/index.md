@@ -57,17 +57,10 @@ sections:
       - title: Outreach
         title_url: /partnering
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We partner with schools and organizations to conduct professional
+          development workshops, consult on education issues, and bring STEM
+          activities to a wide range of students.
         actions: []
         type: grid_item
         image: /images/Team-bro.svg
