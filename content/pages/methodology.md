@@ -33,16 +33,11 @@ seo:
 layout: page
 image: images/5.jpg
 ---
+## How We Teach
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+Our most important guiding principle is that, on the one hand, no student is inherently incapable of succeeding in mathematics and, on the other hand, no student should be bored and unchallenged. We make it a priority to accommodate students with widely varying levels of preparation by placing students in an appropriate level class based on their motivation and personal preference. Of course, even within a particular class, students learn at different paces, and we prepare for that by incorporating problems of varying difficulty into our classes so that all students get a sense of accomplishment and improvement. We strive to make sure that no students feel intimidated either by the subject or by their classmates.
 
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Our experience shows that an informal and friendly classroom setting helps reduce fear of mathematics while encouraging collaboration among students to solve the most difficult problems. Below is the structure of a typical class:
 
 ### This is an H3
 
@@ -56,7 +51,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
+> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
 
 Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
@@ -64,19 +59,19 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 ## Unordered Lists
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+*   Donec non tortor in arcu mollis feugiat
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+*   Donec id eros eget quam aliquam gravida
+*   Vivamus convallis urna id felis
+*   Nulla porta tempus sapien
 
 ## Ordered Lists
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+1.  Donec non tortor in arcu mollis feugiat
+2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+3.  Donec id eros eget quam aliquam gravida
+4.  Vivamus convallis urna id felis
+5.  Nulla porta tempus sapien
 
 ## Video Embeds
 
@@ -86,30 +81,28 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
 
-```
-<!-- Some example CSS code -->
-body {
-  color:red;
-}
-```
+    <!-- Some example CSS code -->
+    body {
+      color:red;
+    }
 
-```
-window.$docsify = {
-  coverpage: true,
+<!---->
 
-  // Custom file name
-  coverpage: 'cover.md',
+    window.$docsify = {
+      coverpage: true,
 
-  // mutiple covers
-  coverpage: ['/', '/zh-cn/'],
+      // Custom file name
+      coverpage: 'cover.md',
 
-  // mutiple covers and custom file name
-  coverpage: {
-    '/': 'cover.md',
-    '/zh-cn/': 'cover.md'
-  }
-};
-```
+      // mutiple covers
+      coverpage: ['/', '/zh-cn/'],
+
+      // mutiple covers and custom file name
+      coverpage: {
+        '/': 'cover.md',
+        '/zh-cn/': 'cover.md'
+      }
+    };
 
 ## Tables
 
