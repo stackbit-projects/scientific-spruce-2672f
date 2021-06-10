@@ -70,6 +70,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/Team-bro.svg
     type: section_grid
   - section_id: cta
     type: section_cta
