@@ -31,7 +31,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
-image: images/5.jpg
+image: /images/Team-pana.svg
 ---
 ## How We Teach
 
