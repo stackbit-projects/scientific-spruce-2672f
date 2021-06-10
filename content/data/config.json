@@ -1,7 +1,7 @@
 {
     "title": "Stackbit Libris Theme",
     "path_prefix": "/",
-    "palette": "blue",
+    "palette": "navy",
     "header": {
         "title": "Gentle Knowledge",
         "logo_img": "/images/gk_logo.png",
