@@ -54,7 +54,7 @@
                         "type": "action"
                     },
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Frequently Asked Questions",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
