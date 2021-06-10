@@ -63,7 +63,7 @@
                         "type": "action"
                     },
                     {
-                        "label": "faq",
+                        "label": "Team",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
