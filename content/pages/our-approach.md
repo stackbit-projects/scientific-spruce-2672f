@@ -51,9 +51,16 @@ Our mission remains to gently elevate the level of mathematical competence of st
 
 ## Key Principles of Our Approach
 
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-*   Vivamus convallis urna id felis
-*   Nulla porta tempus sapien
-
+*   *   Achieving computational fluency as soon as possible and practicing it alongside more advanced and exciting topics.*   Leading students to discover mathematical ideas and problem solving 
+        techniques on their own through an inquiry-based or Socratic approach.*   Enriching the standard school mathematics topics and making sure 
+        that students understand the origins of concepts as well as their 
+        connections to each other, especially when textbooks and schools fail to
+         emphasize this.*   Exploring the beautiful world of mathematics and science that lies 
+        within reach of students but just beyond the standard school curriculum 
+        through problems, hands-on activities, games, and guest lectures.*   Helping students become technology creators, not just technology 
+        users, by teaching the basics of computer programming, algorithms, and 
+        rudimentary engineering principles.*   Conveying the importance of precise communication skills and giving 
+        students the opportunity to practice those skills while making logical 
+        arguments and catching and correcting flawed ones.*   Opening the doors to mathematical competitions and accessible 
+        research and engineering projects for the most ambitious and motivated 
+        students.
