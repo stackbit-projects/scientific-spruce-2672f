@@ -20,9 +20,6 @@ sections:
       - label: Learn More
         url: /our-approach
         style: primary
-  - section_id: lorem-ipsum
-    col_number: three
-    type: section_docs
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
