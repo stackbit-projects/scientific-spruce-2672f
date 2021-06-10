@@ -3,7 +3,9 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: >-
+      An Ambitious K-12 Math and Computer Science Program that Aligns Education
+      Goals with Real-world Expectations
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
