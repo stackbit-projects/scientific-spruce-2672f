@@ -62,7 +62,7 @@ sections:
           development workshops, consult on education issues, and bring STEM
           activities to a wide range of students.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon_class: dev
