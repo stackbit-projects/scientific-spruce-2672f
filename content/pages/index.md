@@ -32,7 +32,7 @@ sections:
           engage with each other and the instructor.
         actions:
           - label: Learn More
-            url: '#'
+            url: /onlineclasses
             style: link
             icon_class: dev
             new_window: false
