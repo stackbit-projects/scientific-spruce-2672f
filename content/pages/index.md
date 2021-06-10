@@ -63,7 +63,7 @@ sections:
           activities to a wide range of students.
         actions:
           - label: Learn More
-            url: '#'
+            url: '/#38b44a'
             style: link
             icon_class: dev
             new_window: false
