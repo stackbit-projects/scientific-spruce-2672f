@@ -72,7 +72,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-        image: /images/Team-bro.svg
+        image: /images/Creative team-pana.svg
     type: section_grid
   - section_id: cta
     type: section_cta
